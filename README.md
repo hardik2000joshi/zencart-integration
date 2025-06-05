@@ -1,1 +1,1 @@
-# zencart-integration
+# zencart-plugin integration 
